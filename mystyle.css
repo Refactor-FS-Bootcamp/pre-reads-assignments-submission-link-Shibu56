@@ -1,0 +1,18 @@
+body{
+    background-color:black;
+    background-image: url("https://images.unsplash.com/photo-1666694421187-75957423ee77?ixlib=rb-4.0.3&dl=tobias-reich-Onn5cCtX5xo-unsplash.jpg&q=80&fm=jpg&crop=entropy&cs=tinysrgb");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    color:yellow;
+    text-align:center;
+    font-size: 40px;
+}
+p{
+     color:aliceblue;
+     text-align:center;
+     font-family:'Times New Roman', Times, serif;
+     font-size:30px;
+     margin:30px 10px 10px 10px;
+}
